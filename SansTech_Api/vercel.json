@@ -1,9 +1,4 @@
 {
-  "functions": {
-    "api/*.cs": {
-      "runtime": "vercel-dotnet@1.0.0"
-    }
-  },
   "routes": [
     {
       "src": "/api/(.*)",
