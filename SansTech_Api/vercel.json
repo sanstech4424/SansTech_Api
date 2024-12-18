@@ -1,6 +1,6 @@
 {
   "functions": {
-    "SansTech_Api/api*.cs": {
+    "api/*.cs": {
       "runtime": "vercel-dotnet@1.0.0"
     }
   },
